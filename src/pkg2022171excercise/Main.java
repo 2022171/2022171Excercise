@@ -27,7 +27,7 @@ public class Main {
         
         System.out.println("What is your age?");
         
-        age = myKB.nextInt();
+        
     }
     
     
