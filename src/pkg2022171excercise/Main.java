@@ -19,11 +19,15 @@ public class Main {
            Scanner myKB = new Scanner(System.in);
         
         String name;
+        int age;
         
         System.out.println("What is your name");
         
         name = myKB.nextLine();
         
+        System.out.println("What is your age?");
+        
+        age = myKB.nextInt();
     }
     
     
