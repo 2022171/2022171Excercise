@@ -27,6 +27,8 @@ public class Main {
         
         System.out.println("What is your age?");
         
+        System.out.println("what kind of car would you like to buy?");
+        
         
     }
     
